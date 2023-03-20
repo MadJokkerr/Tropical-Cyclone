@@ -55,9 +55,17 @@
   </div>
 
 ## Flow Diagram
-  
-<p> <img src="https://github.com/MadJokkerr/Tropical-Cyclone/blob/main/src/Flow%20Control.png" width="30%"> </p>
+    
+<p align="center">
+    <a>
+        <img src="https://github.com/MadJokkerr/Tropical-Cyclone/blob/main/src/Flow%20Control.png" width="50%">
+    </a>
+</p>
   
 ## Predictions
-  
-<p> <img src="https://github.com/MadJokkerr/Tropical-Cyclone/blob/main/src/Prediction.png" width="30%" > </p>
+    
+<p align="center">
+    <a>
+        <img src="https://github.com/MadJokkerr/Tropical-Cyclone/blob/main/src/Prediction.png" width="50%" >
+    </a>
+</p>
